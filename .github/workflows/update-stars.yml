@@ -26,8 +26,8 @@ jobs:
         run: starred --username ${{ github.repository_owner }} --sort --token ${{ secrets.STARS_TOKEN }} > README.md
       - name: Commit changes
         run: |
-          git config --local user.email "github-actions[bot]@users.noreply.github.com"
-          git config --local user.name "github-actions[bot]"
+          git config --local user.email ""kanusowi@users.noreply.github.com"
+          git config --local user.name "kansowi"
           git add -A
           git diff-index --quiet HEAD || git commit -m "Updated my-stars"
       - name: Pull changes
