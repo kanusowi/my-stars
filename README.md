@@ -7,6 +7,7 @@
 
 - [Jupyter Notebook](#jupyter-notebook)
 - [Others](#others)
+- [Rust](#rust)
 
 ## Jupyter Notebook 
 
@@ -15,6 +16,10 @@
 ## Others 
 
 - [SylphAI-Inc/LLM-engineer-handbook](https://github.com/SylphAI-Inc/LLM-engineer-handbook) - A curated list of Large Language Model resources, covering model training, serving, fine-tuning, and building LLM applications.
+
+## Rust 
+
+- [juspay/hyperswitch](https://github.com/juspay/hyperswitch) - An open source payments switch written in Rust to make payments fast, reliable and affordable
 
 
 ## License
