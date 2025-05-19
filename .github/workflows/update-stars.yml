@@ -20,7 +20,7 @@ jobs:
           python -m pip install --upgrade pip
           pip install starred
       - name: Update star list
-        run: starred --username ${{ github.repository_owner }} --sort --token ${{ secrets.GITHUB_TOKEN }} > stars.md
+        run: starred --username ${{ github.repository_owner }} --sort --token ${{ secrets.STARS_TOKEN }} > README.md
       - name: Commit changes
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
@@ -32,4 +32,4 @@ jobs:
       - name: Push changes
         uses: ad-m/github-push-action@d91a481090679876dfc4178fef17f286781251df
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.STARS_TOKEN }}
