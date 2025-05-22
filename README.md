@@ -5,17 +5,30 @@
 
 ## Contents
 
+- [C](#c)
 - [Jupyter Notebook](#jupyter-notebook)
 - [Others](#others)
+- [Python](#python)
 - [Rust](#rust)
+
+## C 
+
+- [pgvector/pgvector](https://github.com/pgvector/pgvector) - Open-source vector similarity search for Postgres
 
 ## Jupyter Notebook 
 
+- [tanishqkumar/beyond-nanogpt](https://github.com/tanishqkumar/beyond-nanogpt) - Minimal and annotated implementations of key ideas from modern deep learning research.
+- [MK2112/nn-zero-to-hero-notes](https://github.com/MK2112/nn-zero-to-hero-notes) - Jupyter Notebook notes on Andrej Karpathy's videos and the tutorial series, "Neural Networks: Zero to Hero."
 - [deeplearningzerotoall/PyTorch](https://github.com/deeplearningzerotoall/PyTorch) - Deep Learning Zero to All - Pytorch
 
 ## Others 
 
 - [SylphAI-Inc/LLM-engineer-handbook](https://github.com/SylphAI-Inc/LLM-engineer-handbook) - A curated list of Large Language Model resources, covering model training, serving, fine-tuning, and building LLM applications.
+
+## Python 
+
+- [karpathy/nanoGPT](https://github.com/karpathy/nanoGPT) - The simplest, fastest repository for training/finetuning medium-sized GPTs.
+- [browser-use/browser-use](https://github.com/browser-use/browser-use) - 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
 
 ## Rust 
 
