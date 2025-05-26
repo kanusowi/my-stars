@@ -10,6 +10,7 @@
 - [Others](#others)
 - [Python](#python)
 - [Rust](#rust)
+- [TypeScript](#typescript)
 
 ## C 
 
@@ -33,6 +34,10 @@
 ## Rust 
 
 - [juspay/hyperswitch](https://github.com/juspay/hyperswitch) - An open source payments switch written in Rust to make payments fast, reliable and affordable
+
+## TypeScript 
+
+- [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
 
 
 ## License
